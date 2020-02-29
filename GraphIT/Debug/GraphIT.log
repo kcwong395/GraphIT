@@ -1,0 +1,11 @@
+﻿  graph.cpp
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(36,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(145,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\src\graph.cpp(341,31): warning C4804: '<=': unsafe use of type 'bool' in operation
+  GraphIT.vcxproj -> C:\Users\Martin\OneDrive - City University of Hong Kong\Kitty Diary\Cityu\EE\EE 3301\GraphIT\GraphIT\Debug\GraphIT.exe
